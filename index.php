@@ -6,7 +6,7 @@
     <title>Ali Hospital</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
-    <meta name="author" content="Lizten Hearing Hub Pvt. Ltd.">
+    <meta name="author" content="">
     <link rel="canonical" href="">
     <meta property="og:title" content="">
     <meta property="og:type" content="Website">
